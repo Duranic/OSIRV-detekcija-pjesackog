@@ -64,7 +64,7 @@ def getLine(points, y, predict):
 
 
 
-img = cv.imread("img13.jpg")
+img = cv.imread("img8.jpg")
 if img is None:
     print ('File cannot be opened')
     exit()
