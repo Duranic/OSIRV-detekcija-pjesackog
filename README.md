@@ -2,11 +2,11 @@
 
 Python script that detects a pedestrian crossing in an image.
 
-!(Images/Screenshots/lines.png)
+![detected lines, discarded red contours](Images/Screenshots/lines.png)
 
-!(Images/Screenshots/crossing.png)
+![detected crossing](Images/Screenshots/crossing.png)
 
 
-!(Images/Screenshots/lines2.png)
+![detected lines](Images/Screenshots/lines2.png)
 
-!(Images/Screenshots/crossing2.png)
+![detected crossing](Images/Screenshots/crossing2.png)
